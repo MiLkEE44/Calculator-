@@ -1,2 +1,2 @@
-# Calculator-
-A simple calculator using dictionary, function and if/else statements. 
+# Calculator
+A simple calculator using dictionary, function, and if/else statements. 
