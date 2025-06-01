@@ -57,6 +57,7 @@ def calculator():
             first = result
         else:
             calculating = False
+            print("\n" * 10)
             calculator()
 
 calculator()
